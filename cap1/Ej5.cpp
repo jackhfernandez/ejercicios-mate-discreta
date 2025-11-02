@@ -1,3 +1,8 @@
+/****************************************************
+	Escriba un programa para determinar el MCM de
+	dos numeros enteros positivos
+*****************************************************/
+
 #include <iostream>
 using namespace std;
 
