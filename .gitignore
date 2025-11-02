@@ -1,0 +1,17 @@
+# Ejecutables
+*.exe
+*.out
+
+# Archivos de profiling
+gmon.out
+
+# Archivos de objeto
+*.o
+*.obj
+
+# Otros archivos generados por el compilador
+*.dll
+*.so
+*.dylib
+
+
